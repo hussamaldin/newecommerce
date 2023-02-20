@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "Categoryname":"sport"
+    },
+    {
+        "id":"2",
+        "Categoryname":"furnuture"
+    },
+    {
+        "id":"3",
+        "Categoryname":"whatch"
+    },
+    {
+        "id":"4",
+        "Categoryname":"kitchen"
+    },
+    {
+        "id":"5",
+        "Categoryname":"short"
+    }
+]

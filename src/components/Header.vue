@@ -1,5 +1,5 @@
 <template>
-<div class="w-full my-[140px]">
+<div class="w-full my-[100px]">
   <swiper
     :spaceBetween="30"
     :centeredSlides="true"
@@ -12,7 +12,7 @@
     }"
 
     :modules="modules"
-    class="mySwiper w-[100%] h-[500px]"
+    class="mySwiper w-[100%] h-[400px]"
   >
     <swiper-slide><img :src="img1"/></swiper-slide>
     <swiper-slide><img :src="img2"/></swiper-slide><swiper-slide><img :src="img3"/></swiper-slide>
